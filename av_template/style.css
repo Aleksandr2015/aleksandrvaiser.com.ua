@@ -66,7 +66,7 @@ body {
 	background-color:#fff;
 	/*background-image:url(images/body_texture.png);*/
 	/*background-image:url(images/05-white-brick.png);*/	
-/*	background-image:url(images/brickwall.png);*/
+	background-image:url(images/brickwall.png);
 	background-repeat:repeat;
 }
 .wrapper {
