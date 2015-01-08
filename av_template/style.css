@@ -308,6 +308,7 @@ body.page-id-2 .banner {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-color: transparent;
+    background-size: cover;
     position: absolute;
     margin-top: 170px;
 /*    box-shadow: 0 0 10px #ccc;*/
