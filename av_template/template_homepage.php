@@ -7,6 +7,7 @@ Template Name: Главная
 			<main class="content">				
 				
 				<!-- Homepage Sliders / Start -->			
+<!--
 				<div class="main_sliders">
 					<div id="slider_exclusives" class="slider_wrap exclusives">
 						<img src="<?php echo get_template_directory_uri();?>/inc/main_sliders/exclusive_01.jpg" alt="Эксклюзив 1" />
@@ -30,6 +31,7 @@ Template Name: Главная
 					</div>				
 				</div>
 				<div class="clearfix"></div>								
+-->
 				<!-- Homepage Sliders / End -->
 				
 				<!-- Homepage Services / Start -->
