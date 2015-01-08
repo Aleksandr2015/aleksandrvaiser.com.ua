@@ -4,8 +4,7 @@ Template Name: Главная
 */
  get_header(); ?>
 
-			<main class="content">				
-				
+			<main class="content _homepage">								
 				<!-- Homepage Sliders / Start -->			
 <!--
 				<div class="main_sliders">

@@ -55,6 +55,8 @@
 			<div id="mask"></div>
 		</div>
 		
+		<div class="banner"></div>
+		
 		<div class="wrapper">
 
 			<header class="header">
@@ -88,4 +90,4 @@
 					'theme_location'=>'navigation-top',		
 					))
 				?>
-			</nav>
+			</nav>		    
