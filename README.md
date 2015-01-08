@@ -1,2 +1,2 @@
 # aleksandrvaiser.com.ua
-Персональная wordpress тема на основе фреймворка bootstrap 3+
+Персональная wordpress тема
